@@ -15,6 +15,7 @@ public class Fibonacci {
      * @return the nth number of fibonacci sequence.
      */
     public int fib(int n){
+        System.out.println("");
         return 0;
     }
 }
